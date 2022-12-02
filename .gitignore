@@ -1,5 +1,5 @@
 *.png
 *.py
-.ipynb_checkpoints/
+.ipynb_checkpoints
 venv/
 covid19sktime.ipynb
